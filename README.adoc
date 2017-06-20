@@ -1,0 +1,3 @@
+= Deeplink Playground Android App
+
+https://deeplink-playground-yi.herokuapp.com/ をアプリでフックできるか試すだけ
